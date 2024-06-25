@@ -1,5 +1,5 @@
 # Project-A.R.I.E.S
-Carbon Capture Device which placed 4th in the APSC 170 Final design competition 2024.
+Carbon Capture Device which placed 4th in the APSC 171 Final design competition 2024.
 
 # Project Aries - Carbon Capture Device
 Project Aries is an innovative carbon capture device designed to mitigate CO2 emissions from the atmosphere using a straightforward chemical process. It utilizes 3D printed components and simple mechanisms to achieve efficient carbon capture and purification of air.
